@@ -35,9 +35,6 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Boulderdash.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="TextureHolder.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -48,6 +45,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Update.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

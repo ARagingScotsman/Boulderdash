@@ -154,7 +154,8 @@
     <ClInclude Include="TextureHolder.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Boulderdash.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Draw.cpp" />
     <ClCompile Include="Engine.cpp" />
     <ClCompile Include="Input.cpp" />
     <ClCompile Include="stdafx.cpp">

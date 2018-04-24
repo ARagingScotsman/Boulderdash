@@ -14,6 +14,8 @@ Engine::Engine()
 	m_MainView.setSize(resolution);
 	m_HudView.reset(FloatRect(0, 0, resolution.x, resolution.y));
 
+	m_BackgroundTexture = TextureHolder::GetTexture("graphics/background.png");
+
 	// Associate the Sprite with the Texture
 	m_BackgroundSprite.setTexture(m_BackgroundTexture);
 }
